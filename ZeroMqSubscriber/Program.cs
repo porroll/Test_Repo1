@@ -55,7 +55,7 @@ namespace ZeroMqSubscriber
                                     // Create the connection to the resource!
                                     // This is the connection, that is established and
                                     // will be available throughout this block.
-                                    // Add some changes here ....................
+                                    // Add some changes here .................... again .....
 
                                     // Create the command, to insert the data into the Table!
                                     // this is a simple INSERT INTO command!
