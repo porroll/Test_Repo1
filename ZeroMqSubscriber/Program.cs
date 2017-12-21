@@ -19,6 +19,7 @@ namespace ZeroMqSubscriber
         {
             try
             {
+                //adding a comment to this file to test merge.
 
                 System.IO.Directory.SetCurrentDirectory(System.AppDomain.CurrentDomain.BaseDirectory);
                 string topic = "device";
